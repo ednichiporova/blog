@@ -28,7 +28,10 @@ interests:
 
 # Education to show in About widget
 education:
-  1 курс РУДН, Москва
+  courses:
+    - corse: 1 курс
+      institution: РУДН Москва
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
