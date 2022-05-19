@@ -41,18 +41,31 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://elibrary.ru/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ednichiporova
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://orcid.org/
+  - icon: bars
+    icon_pack: fas
+    link: https://scholar.google.com/
+  - icon: accusoft
+    icon_pack: fab
+    link: https:https://www.mendeley.com/
+  - icon: angles-up
+    icon_pack: fas
+    link: https://www.researchgate.net/
+  - icon: asterisk
+    icon_pack: fas
+    link: https://www.academia.edu/
+  - icon: award
+    icon_pack: fas
+    link: https://arxiv.org/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
